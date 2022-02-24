@@ -1,0 +1,6 @@
+channels:
+  - default
+  - bioconda
+  - conda-forge
+dependencies:
+  - bcftools =1.9
